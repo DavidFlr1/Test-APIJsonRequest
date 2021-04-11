@@ -1,5 +1,5 @@
 // Set connection to the API by its method request
-// Define token key
+// Define token key alocated on .env file
 const token = {Authorization: process.env.REACT_APP_TOKEN_PUBLIC_KEY}
 
 // Define method with its key
