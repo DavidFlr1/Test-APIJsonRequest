@@ -1,3 +1,55 @@
 .App{
-    background: linear-gradient(to bottom, rgb(70, 212, 176), white);
+    /*background: linear-gradient(to bottom, rgb(255, 255, 255), rgb(146, 146, 146));*/
+    padding: 2rem;
+}
+
+#mainContainer {
+    border-Radius: 20px;
+    margin: 20px 25px;
+}
+
+.headerBar {
+    /*min-width: 1350px;*/
+    background: #5DB9FA;
+    padding: 15px 0px;
+    border-radius: 20px 20px 0 0;
+
+}
+
+.headerButtons {
+    /*display: inline-flex;*/
+    border-radius: 30px !important;
+    text-align: center !important;
+    width: 50% ;
+    margin: 0px 20px !important;
+    font-weight: bold !important;
+}
+
+.dock {
+    background: #5DB9FA;
+    border-radius: 0 0 0 20px;
+
+    width: 100%;
+}
+
+.order-list {
+    width: 100%;
+    margin: 15px 0 10px 0;
+    display: block;
+    justify-content: center;
+    text-align: center;
+}
+
+.order {
+    width: 100%;
+    height: 60px !important;
+    margin: 5px 0px;
+    text-align: center;
+    border-radius: 10px !important;
+}
+
+.order-information {
+    padding: 1rem;
+    border: 1px solid #54a7e2;
+    border-radius: 0 0 20px 0;
 }
