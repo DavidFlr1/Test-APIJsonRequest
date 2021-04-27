@@ -32,6 +32,7 @@ const App = () => {
                 .then((response) => response.json())
                 .then((object) => { 
                     setOrders(object.orders)
+                    console.log(object)
                 })
     }
 
