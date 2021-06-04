@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Test-APIJsonRequest/static/css/main.db201392.chunk.css",
+    "main.js": "/Test-APIJsonRequest/static/js/main.13358af7.chunk.js",
+    "main.js.map": "/Test-APIJsonRequest/static/js/main.13358af7.chunk.js.map",
+    "runtime-main.js": "/Test-APIJsonRequest/static/js/runtime-main.c255522e.js",
+    "runtime-main.js.map": "/Test-APIJsonRequest/static/js/runtime-main.c255522e.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Test-APIJsonRequest/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.aae480ab.chunk.js": "/Test-APIJsonRequest/static/js/2.aae480ab.chunk.js",
+    "static/js/2.aae480ab.chunk.js.map": "/Test-APIJsonRequest/static/js/2.aae480ab.chunk.js.map",
+    "index.html": "/Test-APIJsonRequest/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Test-APIJsonRequest/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.db201392.chunk.css.map": "/Test-APIJsonRequest/static/css/main.db201392.chunk.css.map",
+    "static/js/2.aae480ab.chunk.js.LICENSE.txt": "/Test-APIJsonRequest/static/js/2.aae480ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c255522e.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.aae480ab.chunk.js",
+    "static/css/main.db201392.chunk.css",
+    "static/js/main.13358af7.chunk.js"
+  ]
+}
